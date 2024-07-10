@@ -49,7 +49,7 @@ header p {
 
 main {
   width: 90%;
-  max-width: 50rem;
+  max-width: 60rem;
   margin: auto;
 }
 
@@ -78,7 +78,7 @@ main h2 {
 }
 
 #core-concepts li {
-  width: 10rem;
+  width: 17rem;
   text-align: center;
 }
 
